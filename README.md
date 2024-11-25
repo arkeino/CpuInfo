@@ -1,0 +1,3 @@
+Run the code with python 'name_file'
+
+and see your cpu info with network info, disk info ...
